@@ -1,273 +1,0 @@
-Tmastermind
-v7
-r0
-t448382451.174325
-cCheck dependencies
-cProcessInfoPlistFile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/Info.plist mastermind-Info.plist
-cCompileXIB /Users/jriviere001$/Desktop/mastermind/MainWindow.xib
-cCompileXIB /Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib
-cProcessPCH /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch.gch mastermind_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/main.o /Users/jriviere001$/Desktop/mastermind/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindAppDelegate.o /Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindViewController.o /Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind normal i386
-cGenerateDSYMFile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app.dSYM /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind
-cTouch /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
-c000000004D5C9B4E0000000000000110
-t1297914702
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004D54CFFA00000000002999B0
-t1297403898
-s2726320
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004D54CFE5000000000029DA70
-t1297403877
-s2742896
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004D54CFB80000000000001466
-t1297403832
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004D5615B40000000000000AA1
-t1297487284
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004D5616030000000000766870
-t1297487363
-s7759984
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
-c000000004D4F6E9A0000000000004763
-t1297051290
-s18275
-
-N/Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.h
-c000000005501979C00000000000001F6
-t1426167708
-s502
-i<UIKit/UIKit.h>
-
-N/Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m
-c000000005501979C0000000000000ABE
-t1426167708
-s2750
-i"mastermindAppDelegate.h"
-i"mastermindViewController.h"
-
-N/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.h
-c0000000055098D8300000000000005F1
-t1426689411
-s1521
-i<UIKit/UIKit.h>
-
-N/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m
-c0000000055098E6F000000000000181C
-t1426689647
-s6172
-i"mastermindViewController.h"
-i<Foundation/Foundation.h>
-i<stdio.h>
-
-N/Users/jriviere001$/Desktop/mastermind/MainWindow.xib
-c000000005501979C0000000000004E4D
-t1426167708
-s20045
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app
-t1426689651
-s238
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app.dSYM
-t1426689651
-s102
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/Info.plist
-t1426167854
-s603
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/MainWindow.nib
-t1426167854
-s1687
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/PkgInfo
-t1426167854
-s8
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind
-t1426689651
-s30240
-
-N/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermindViewController.nib
-t1426686611
-s6562
-
-N/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/main.o
-t1426587632
-s6312
-
-N/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermind.LinkFileList
-c000000005501982E00000000000001A5
-t1426167854
-s421
-
-N/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindAppDelegate.o
-t1426689417
-s52636
-
-N/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindViewController.o
-t1426689651
-s68988
-
-N/Users/jriviere001$/Desktop/mastermind/main.m
-c000000005502B912000000000000016C
-t1426241810
-s364
-i<UIKit/UIKit.h>
-
-N/Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib
-c0000000055097F3D000000000000A4E0
-t1426685757
-s42208
-
-N/Users/jriviere001$/Desktop/mastermind/mastermind_Prefix.pch
-c000000005501979C00000000000000BD
-t1426167708
-s189
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch.gch
-t1426167855
-s15814064
-
-Nmastermind-Info.plist
-c000000005501979C000000000000038D
-t1426167708
-s909
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies448382450#448382451#0(0"0(0#1#0"8615236096#0"0#
-
-CCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/main.o /Users/jriviere001$/Desktop/mastermind/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s448280433.735123
-e448280433.860046
-r1
-xCompileC
-xbuild/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/main.o
-x/Users/jriviere001$/Desktop/mastermind/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@53"Compile /Users/jriviere001$/Desktop/mastermind/main.m448280433#448280433#0(0"0(0#0#45"/Users/jriviere001$/Desktop/mastermind/main.m8605914400#1983"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-generated-files.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-own-target-headers.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-all-target-headers.hmap -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-project-headers.hmap -F/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -I/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/include -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources/i386 -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources -include /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch -c /Users/jriviere001$/Desktop/mastermind/main.m -o /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/main.o0#
-
-CCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindAppDelegate.o /Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s448382217.652605
-e448382217.762321
-r1
-xCompileC
-xbuild/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindAppDelegate.o
-x/Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@78"Compile /Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m448382217#448382217#0(0"0(0#0#70"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m8613175904#2025"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-generated-files.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-own-target-headers.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-all-target-headers.hmap -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-project-headers.hmap -F/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -I/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/include -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources/i386 -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources -include /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch -c /Users/jriviere001$/Desktop/mastermind/Classes/mastermindAppDelegate.m -o /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindAppDelegate.o0#
-
-CCompileC build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindViewController.o /Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s448382450.964921
-e448382451.131095
-r1
-xCompileC
-xbuild/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindViewController.o
-x/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: In function '-[mastermindViewController affichage:]':
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: 'mastermindViewController' may not respond to '-correction'
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: (Messages without a matching method signature
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: will be assumed to return 'id' and accept
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: '...' as arguments.)
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: In function '-[mastermindViewController correction]':
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:155: warning: control reaches end of non-void function
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: At top level:
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:191: warning: property 'combiActuelleJoueur' requires method '-combiActuelleJoueur' to be defined - use @synthesize, @dynamic or provide a method implementation
-o/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:191: warning: property 'combiActuelleJoueur' requires the method 'setCombiActuelleJoueur:' to be defined - use @synthesize, @dynamic or provide a method implementation
-lSLF07#2@81"Compile /Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382450#448382451#0(1470"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: In function '-[mastermindViewController affichage:]':/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: 'mastermindViewController' may not respond to '-correction'/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: (Messages without a matching method signature/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: will be assumed to return 'id' and accept/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:18: warning: '...' as arguments.)/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: In function '-[mastermindViewController correction]':/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:155: warning: control reaches end of non-void function/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m: At top level:/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:191: warning: property 'combiActuelleJoueur' requires method '-combiActuelleJoueur' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m:191: warning: property 'combiActuelleJoueur' requires the method 'setCombiActuelleJoueur:' to be defined - use @synthesize, @dynamic or provide a method implementation6(22@59"'mastermindViewController' may not respond to '-correction'448382451#129#147#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#18#0#18#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)448382451#276#133#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#18#0#18#0#0"0(22@40"Control reaches end of non-void function448382451#775#129#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#155#0#155#0#40"control reaches end of non-void function0(23@13"At top level:448382451#904#89#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#0#0#0#0#0"0(22@146"Property 'combiActuelleJoueur' requires method '-combiActuelleJoueur' to be defined - use @synthesize, @dynamic or provide a method implementation448382451#993#235#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#191#0#191#0#0"0(22@153"Property 'combiActuelleJoueur' requires the method 'setCombiActuelleJoueur:' to be defined - use @synthesize, @dynamic or provide a method implementation448382451#1228#242#0(6@73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m448382447#191#0#191#0#0"0(0#0#73"/Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m8613864032#2031"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-generated-files.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-own-target-headers.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-all-target-headers.hmap -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-project-headers.hmap -F/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -I/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/include -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources/i386 -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources -include /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch -c /Users/jriviere001$/Desktop/mastermind/Classes/mastermindViewController.m -o /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermindViewController.o0#
-
-CCompileXIB /Users/jriviere001$/Desktop/mastermind/MainWindow.xib
-s447860654.772780
-e447860655.175020
-r1
-xCompileXIB
-x/Users/jriviere001$/Desktop/mastermind/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib447860654#447860655#0(0"0(0#0#53"/Users/jriviere001$/Desktop/mastermind/MainWindow.xib8603533440#575"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/MainWindow.nib /Users/jriviere001$/Desktop/mastermind/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CCompileXIB /Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib
-s448379410.263680
-e448379411.375421
-r1
-xCompileXIB
-x/Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib
-lSLF07#2@39"CompileXIB mastermindViewController.xib448379410#448379411#0(0"0(0#0#67"/Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib8614192928#603"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermindViewController.nib /Users/jriviere001$/Desktop/mastermind/mastermindViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
-
-CGenerateDSYMFile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app.dSYM /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind
-s448382451.156413
-e448382451.171271
-r1
-xGenerateDSYMFile
-x/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app.dSYM
-x/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/mastermind.app.dSYM build/Debug-iphonesimulator/mastermind.app/mastermind448382451#448382451#0(0"0(0#0#92"/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind8614370272#394"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind -o /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app.dSYM0#
-
-CLd /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind normal i386
-s448382451.131228
-e448382451.156340
-r1
-xLd
-x/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind
-xnormal
-xi386
-lSLF07#2@97"Link /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind448382451#448382451#0(0"0(0#0#0"8612954432#917"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -F/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -filelist /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/Objects-normal/i386/mastermind.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/mastermind0#
-
-CProcessInfoPlistFile /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/Info.plist mastermind-Info.plist
-s447860654.756921
-e447860654.772704
-r1
-xProcessInfoPlistFile
-x/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/Info.plist
-xmastermind-Info.plist
-lSLF07#2@29"Process mastermind-Info.plist447860654#447860654#0(0"0(0#0#60"/Users/jriviere001$/Desktop/mastermind/mastermind-Info.plist31244169098821736#490"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility mastermind-Info.plist -genpkginfo /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app/Info.plist0#
-
-CProcessPCH /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch.gch mastermind_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s448280433.074338
-e448280433.734998
-r1
-xProcessPCH
-x/var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch.gch
-xmastermind_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@32"Precompile mastermind_Prefix.pch448280433#448280433#0(0"0(0#0#60"/Users/jriviere001$/Desktop/mastermind/mastermind_Prefix.pch8606273472#1872"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-generated-files.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-own-target-headers.hmap -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-all-target-headers.hmap -iquote /Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/mastermind-project-headers.hmap -F/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator -I/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/include -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources/i386 -I/Users/jriviere001$/Desktop/mastermind/build/mastermind.build/Debug-iphonesimulator/mastermind.build/DerivedSources -c /Users/jriviere001$/Desktop/mastermind/mastermind_Prefix.pch -o /var/folders/pL/pLDKlpTZGmKdkGl9qNf+mpJnpgQ/-Caches-/com.apple.Xcode.1433654983/SharedPrecompiledHeaders/mastermind_Prefix-drunkptxdjmbeggqudqwrilrymem/mastermind_Prefix.pch.gch0#
-
-CTouch /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app
-s448382451.171342
-e448382451.174288
-r1
-xTouch
-x/Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app
-lSLF07#2@87"Touch /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app448382451#448382451#0(0"0(0#0#0"8614000768#283"    cd "/Users/jriviere001$/Desktop/mastermind"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jriviere001$/Desktop/mastermind/build/Debug-iphonesimulator/mastermind.app0#
-
